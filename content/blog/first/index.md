@@ -13,5 +13,5 @@ tags = ["first"]
 First post for learning how to use the theme and Zola!
 
 ```rust,name=first.rs
-let first = "code";
+let first = "fun!";
 ```
